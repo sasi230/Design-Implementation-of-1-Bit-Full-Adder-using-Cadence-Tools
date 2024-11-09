@@ -56,7 +56,7 @@ v.	Analog simulation by spectre
  
 iii)	Creating the Symbol for schematic Cell view
 
-•	In the schematic window, execute 
++	In the schematic window, execute 
 +	Create – Cell view – From Cell view
 +	The cell view from cell view window appears
 +	Check Lib Name, Cell Name, From View name must be schematic Press ok
