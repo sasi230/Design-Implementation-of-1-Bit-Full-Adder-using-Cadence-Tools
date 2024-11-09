@@ -104,5 +104,5 @@ For Transient Analysis Settings and Output
 
  
 
-Results:
+## Results:
 The design and implementation of the 1-bit full adder using Cadence EDA tools were successfully completed. The simulation results verified the correct operation of the full adder, with accurate sum and carry outputs for all input combinations.
