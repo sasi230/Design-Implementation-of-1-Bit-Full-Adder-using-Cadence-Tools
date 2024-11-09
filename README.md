@@ -60,20 +60,20 @@ iii)	Creating the Symbol for schematic Cell view
 +	Create – Cell view – From Cell view
 +	The cell view from cell view window appears
 +	Check Lib Name, Cell Name, From View name must be schematic Press ok
-•	Now Symbol generation form appears. Click Ok If No changes required
-•	A new window with with default symbol is created.
-•	Edit the symbol if you want to give actual symbol shape else continue.
-•	Execute Create-Cell view-from cell view
-•	Library Name and Cell Name must be same which you have used for schematic. Press OK
-•	Check for the position of pin side.Prss OK
-•	Edit for the shape by Create-Shape-Choose required options to edit.
++	Now Symbol generation form appears. Click Ok If No changes required
++	A new window with with default symbol is created.
++	Edit the symbol if you want to give actual symbol shape else continue.
++	Execute Create-Cell view-from cell view
++	Library Name and Cell Name must be same which you have used for schematic. Press OK
++	Check for the position of pin side.Prss OK
++	Edit for the shape by Create-Shape-Choose required options to edit.
 ![Screenshot 2024-11-09 190024](https://github.com/user-attachments/assets/fe17ceb8-6ed6-405e-8b20-c5306c98c026)
 
 
 
 iv)	Creating the new test cell view
 
-•	Go to CIW window, Execute File-New-Cell view
++ Go to CIW window, Execute File-New-Cell view
 +	Setup the new file form
 +	Library: Select the one you created.
 +	Cell: Cell name must be different from the name used in schematic cell view. Ex: Inverter_test
@@ -86,8 +86,8 @@ iv)	Creating the new test cell view
 
  
 Analog simulation by SPECTRE.
-•	In test cell view window
-•	Launch – ADE L(Analog Design Environment)
++	In test cell view window
++	Launch – ADE L(Analog Design Environment)
 +	Execute Setup—Simulation/directory/Host A new window opens
 +	Set the simulation window to spectre and click ok
 +	Execute Analysis – Choose. A window opens.
