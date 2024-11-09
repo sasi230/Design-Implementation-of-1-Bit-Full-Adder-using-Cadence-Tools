@@ -57,9 +57,9 @@ v.	Analog simulation by spectre
 iii)	Creating the Symbol for schematic Cell view
 
 •	In the schematic window, execute 
-	Create – Cell view – From Cell view
-	The cell view from cell view window appears
-	Check Lib Name, Cell Name, From View name must be schematic Press ok
++	Create – Cell view – From Cell view
++	The cell view from cell view window appears
++	Check Lib Name, Cell Name, From View name must be schematic Press ok
 •	Now Symbol generation form appears. Click Ok If No changes required
 •	A new window with with default symbol is created.
 •	Edit the symbol if you want to give actual symbol shape else continue.
@@ -74,11 +74,11 @@ iii)	Creating the Symbol for schematic Cell view
 iv)	Creating the new test cell view
 
 •	Go to CIW window, Execute File-New-Cell view
-	Setup the new file form
-	Library: Select the one you created.
-	Cell: Cell name must be different from the name used in schematic cell view. Ex: Inverter_test
-	View: Schematic
-	Type: Schematic press OK
++	Setup the new file form
++	Library: Select the one you created.
++	Cell: Cell name must be different from the name used in schematic cell view. Ex: Inverter_test
++	View: Schematic
++	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
 ![Screenshot 2024-11-09 190005](https://github.com/user-attachments/assets/ea18d52c-a4b9-4da9-9a2a-06f67152146c)
 
@@ -88,12 +88,12 @@ iv)	Creating the new test cell view
 Analog simulation by SPECTRE.
 •	In test cell view window
 •	Launch – ADE L(Analog Design Environment)
-	Execute Setup—Simulation/directory/Host A new window opens
-	Set the simulation window to spectre and click ok
-	Execute Analysis – Choose. A window opens.
-	Select the type and set the specifications and press OK
-	Execute Output s—to be plotted – Select on Schematic
-	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
++	Execute Setup—Simulation/directory/Host A new window opens
++	Set the simulation window to spectre and click ok
++	Execute Analysis – Choose. A window opens.
++	Select the type and set the specifications and press OK
++	Execute Output s—to be plotted – Select on Schematic
++	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
 ![Screenshot 2024-11-09 185937](https://github.com/user-attachments/assets/5be2d069-c614-4846-86c9-e8ec168ba7b2)
 
