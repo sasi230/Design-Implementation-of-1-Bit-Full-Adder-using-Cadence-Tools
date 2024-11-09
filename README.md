@@ -54,7 +54,7 @@ v.	Analog simulation by spectre
 
 
  
-iii)	Creating the Symbol for schematic Cell view
+### iii)	Creating the Symbol for schematic Cell view
 
 +	In the schematic window, execute 
 +	Create – Cell view – From Cell view
@@ -71,7 +71,7 @@ iii)	Creating the Symbol for schematic Cell view
 
 
 
-iv)	Creating the new test cell view
+### iv)	Creating the new test cell view
 
 + Go to CIW window, Execute File-New-Cell view
 +	Setup the new file form
@@ -85,7 +85,7 @@ iv)	Creating the new test cell view
 
 
  
-Analog simulation by SPECTRE.
+### Analog simulation by SPECTRE.
 +	In test cell view window
 +	Launch – ADE L(Analog Design Environment)
 +	Execute Setup—Simulation/directory/Host A new window opens
@@ -97,7 +97,7 @@ Analog simulation by SPECTRE.
 •	Execute Simulation -- Net list and Run
 ![Screenshot 2024-11-09 185937](https://github.com/user-attachments/assets/5be2d069-c614-4846-86c9-e8ec168ba7b2)
 
-For Transient Analysis Settings and Output
+## For Transient Analysis Settings and Output
  ![Screenshot 2024-11-09 185952](https://github.com/user-attachments/assets/a3fb2842-a519-4e40-bfb6-f80eca2dc0ea)
 
 
