@@ -6,8 +6,6 @@ To design and implement a 1-bit full adder circuit using Cadence EDA tools and t
 ## Tools Required:
 •	Personal Computer
 •	Cadence Virtuoso Software
-
-
 ## Circuit Diagram:
 ![WhatsApp Image 2024-11-15 at 3 07 26 PM](https://github.com/user-attachments/assets/fc5a5238-fdac-429a-948d-084698adbc43)
 
