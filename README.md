@@ -10,9 +10,7 @@ To design and implement a 1-bit full adder circuit using Cadence EDA tools and t
 ![WhatsApp Image 2024-11-15 at 3 07 26 PM](https://github.com/user-attachments/assets/fc5a5238-fdac-429a-948d-084698adbc43)
 
 
-## procedure:
-
-S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
+## S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
 
 1.	Right Click and open the terminal window
 2.	Type the following commands as follows and press enter.
