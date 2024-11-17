@@ -2,7 +2,6 @@
 
 ## Aim:
 To design and implement a 1-bit full adder circuit using Cadence EDA tools and to understand its behavior in digital arithmetic operations.
-
 ## Tools Required:
 •	Personal Computer
 •	Cadence Virtuoso Software
@@ -70,7 +69,6 @@ v.	Analog simulation by spectre
 ![Screenshot 2024-11-09 190024](https://github.com/user-attachments/assets/fe17ceb8-6ed6-405e-8b20-c5306c98c026)
 
 
-
 ### iv)	Creating the new test cell view
 
 + Go to CIW window, Execute File-New-Cell view
@@ -84,8 +82,7 @@ v.	Analog simulation by spectre
 
 
 
- 
-### Analog simulation by SPECTRE.
+ ### Analog simulation by SPECTRE.
 +	In test cell view window
 +	Launch – ADE L(Analog Design Environment)
 +	Execute Setup—Simulation/directory/Host A new window opens
@@ -101,8 +98,6 @@ v.	Analog simulation by spectre
  ![Screenshot 2024-11-09 185952](https://github.com/user-attachments/assets/a3fb2842-a519-4e40-bfb6-f80eca2dc0ea)
 
 
-
- 
 
 ## Results:
 The design and implementation of the 1-bit full adder using Cadence EDA tools were successfully completed. The simulation results verified the correct operation of the full adder, with accurate sum and carry outputs for all input combinations.
